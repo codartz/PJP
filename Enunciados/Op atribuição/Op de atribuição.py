@@ -38,7 +38,6 @@
 
 # Leia tempo em segundos (int). Converta para minutos inteiros com //= 60 e depois use %= para obter segundos restantes.
 
-
 # Leia n (int). Faça n += 3, n *= 2, n -= 4, n //= 3. Mostre cada etapa usando a função print().
 
 # Leia kilobytes (int). Converta para megabytes inteiros com //= 1024.
