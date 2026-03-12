@@ -1,2 +1,0 @@
-# Número NÃO é zero
-
