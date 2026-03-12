@@ -1,52 +1,29 @@
-# Leia saldo (float) e depósito (float). Use saldo += deposito e mostre o novo saldo.
+Como realizar a entrega da atividade
+Arquivo dos códigos no Visual Studio Code (ou outra IDE);
+Utilizar um editor de código online; copiar o código do editor, colar no bloco de notas ou word e realizar a entrega. 
+Quem já tem Github, pode criar um repositório e compartilhar o link comigo. 
 
-# Leia um contador (int) e um passo (int). Faça contador += passo duas vezes. Mostre o resultado.
+Tarefas que devem ser entregues: 
+Exercícios operadores de atribuição.  
 
-# Leia orçamento (float) e gasto (float). Faça orcamento -= gasto.
+1 Solicite ao usuário que informe o saldo da sua conta e o valor que será depositado; ambos os valores devem ser do tipo FLOAT. Utilize atribuição += para adicionar o deposito ao saldo da conta e exiba o novo saldo na tela. 
 
-# Leia vidas (int) e perdidas (int). Use vidas -= perdidas.
+2 Solicite ao usuário que informe um orçamento (float) e um gasto (float). Utilize atribuição -= para descontar o gasto do orçamento.  
 
-# Leia estoque (int) e vendidas (int). Atualize com -= e mostre o estoque final.
+3 Solicite ao usuário que informe o estoque no início do dia (int) e a quantidade vendida ao final do dia (int). Atualize a quantidade utilizando atribuição -= para mostrar o estoque final.  
 
-# Leia preço (float) e fator (float). Faça preco *= fator.
+4 Solicite ao usuário que informe um número (int) e multiplique por 3 utilizando atribuição *=. 
 
-# Leia um número (int) e multiplique por 3 usando *=.
+5 Solicite ao usuário que informe uma quantidade de horas e converta para dias utilizando /= 24.  
 
-# Leia base de pontos (int) e combos (int). Aplique *=.
+6 Solicite ao usuário que informe minutos (int) e transforme em horas inteiras utilizando //= 60.  
 
-# Leia horas (float) e converta para dias com /= 24.
+7 Solicite ao usuário que informe uma quantidade de segundos e depois transforme em minutos inteiros utilizando //=60. 
 
-# Leia total (float) e pessoas (int). Use /= para dividir igualmente.
+8 Solicite um número (int), aplique n %= 2 e exiba o valor na tela. Se o resultado for 0, o número é par; se o resultado for 1, o número é ímpar.  
 
-# Leia minutos (int) e transforme em horas inteiras com //= 60.
+9 Solicite um valor de estoque (int), subtraia as vendas utilizando -= e depois a reposição do estoque utilizando +=, por fim, aplique %= 6. 
 
-# Leia segundos (int) e reduza para minutos inteiros usando //= 60.
+10 Solicite ao usuário que informe os tempos em segundos (int). Converta para minutos inteiros com //= e depois use %= para obter segundos restantes.  
 
-# Leia um número (int), aplique n %= 2 e imprima. # 0 = par, 1 = ímpar
-
-# Leia dias (int). Mantenha apenas os dias restantes após converter para semanas (7 dias) usando %=.
-
-# Leia um número (int) e eleve ao quadrado.
-
-# Leia n (float) e p (int). Aplique n **= p.
-
-#a partir daqui são exercícios utilizando mais de 1 operador de atribuição. # Leia n (float) e p (int). Aplique n **= p.
-
-# Leia valor (float). Faça: += 5, depois /= 2, depois **= 2.
-
-# Leia estoque (int). Subtraia venda com -=, depois reposição com +=, por fim %= 6.
-
-# Leia tempo em segundos (int). Converta para minutos inteiros com //= 60 e depois use %= para obter segundos restantes.
-
-# Leia n (int). Faça n += 3, n *= 2, n -= 4, n //= 3. Mostre cada etapa usando a função print().
-
-# Leia kilobytes (int). Converta para megabytes inteiros com //= 1024.
-
-# Leia metros (int). Converta para km inteiros com //= 1000 e guarde metros restantes com %= (em outra variável).
-
-# Leia base (float). Aplique *= 1.05 (aumento 5%), depois -= 2 (taxa), depois /= 2.
-
-# Leia dois inteiros a e b. Em a: a += b, a *= 2, a %= 7.
-
-# Leia num (float). Faça num **= 0.5 (raiz quadrada), depois num **= 2. Mostre cada etapa.
-
+11 Solicite ao usuário uma distância em metros e depois converta para km inteiros com //= 1000, guarde os metros restantes utilizando %= (utilize outra variável).  
