@@ -1,3 +1,4 @@
+lista = []
 frutas = ["maça", "banana", "uva"]
 numeros = [1, 2, 3, 4]
 
