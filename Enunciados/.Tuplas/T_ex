@@ -1,5 +1,6 @@
 # Criando tuplas
 coordenadas = (10, 20)
+print(coordenadas) # Saída: (10, 20)
 dias = ("segunda", "terça", "quarta", "quinta", "sexta")
 
 # Acessanndo elementos
