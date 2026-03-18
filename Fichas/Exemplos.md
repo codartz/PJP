@@ -1,3 +1,9 @@
+# De uma linha
+
+""
+De várias linhas
+""
+
 # Exemplo de input e print
 aluna = input("Qual seu nome?")
 print("Olá, ", aluna)
@@ -24,6 +30,8 @@ print(f"Com três casas: {numero:.3f}") # 3.142
 print(f"Sem casas decimais: {numero:.0f}") # 3
 
 # Exemplo de :.2f
+numero = flot(input("Digite um número))
+print(f"O número digitado foi {numero:.2f})
 
 # Solicita ao usuario um numero decimal
 numero = float(input("Digite um numero: "))
