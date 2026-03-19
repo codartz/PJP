@@ -1,5 +1,4 @@
-
-
+ 
 # Solicita ao usuario um número
 número = float(input("Digite um número: "))
 
