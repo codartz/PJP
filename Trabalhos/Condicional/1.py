@@ -1,9 +1,9 @@
-Peça para o aluno digitar a idade de uma pessoa e o programa deve classificar:
+# Peça para o aluno digitar a idade de uma pessoa e o programa deve classificar:
 
-0–12 → Criança
-13–17 → Adolescente
-18–59 → Adulto
-60+ → Idoso
+# 0–12 → Criança
+# 13–17 → Adolescente
+# 18–59 → Adulto
+# 60+ → Idoso
 
 # Solicite ao usuario que informe sua idade
 idade = int(input("Informe sua idade: "))
