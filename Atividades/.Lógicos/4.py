@@ -1,2 +1,0 @@
-# Senha correta
-

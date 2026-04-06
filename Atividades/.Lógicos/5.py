@@ -1,2 +1,0 @@
-# Ambos os números são pares
-

@@ -1,2 +1,0 @@
-# Pelo menos um número maior que 50
-

@@ -1,2 +1,0 @@
-# Número negativo ou maior que 100
-
