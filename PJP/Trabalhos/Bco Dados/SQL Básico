@@ -1,0 +1,53 @@
+Instruções
+
+Objetivo 
+
+Criar uma tabela em banco de dados e inserir registros utilizando comandos SQL básicos. 
+
+ 
+
+Cenário da Atividade 
+
+Você foi contratado para criar o banco de dados de uma biblioteca escolar. 
+
+Será necessário cadastrar livros disponíveis para empréstimo. 
+
+ 
+Passo 1 — Criar o Banco de Dados 
+
+Passo 2 — Criar a Tabela 
+
+Tabela: livros 
+
+Campos necessários: 
+
+id 
+INT 
+Identificador
+titulo
+VARCHAR(100) 
+Nome do livro 
+autor 
+VARCHAR(100) 
+Autor
+ano_publicacao 
+INT 
+Ano
+disponivel
+BOOLEAN
+
+Disponível para empréstimo 
+
+ 
+
+Passo 3 — Inserir Dados 
+
+1, 'Dom Casmurro', 'Machado de Assis', 1899, true
+2, 'O Pequeno Príncipe', 'Antoine de Saint-Exupéry', 1943, true
+3, 'Harry Potter e a Pedra Filosofal', 'J.K. Rowling', 1997, false 
+
+ 
+
+Passo 4 — Consultar Dados 
+
+Mostrar  dados da tabela  

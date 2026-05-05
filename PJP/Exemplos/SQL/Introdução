@@ -1,4 +1,4 @@
-# Criar 3 tabelas
+# Criar 3 tabelas (MySQL WorkBench)
 # 1) Alunos (nome, telefone, email, data de nascimento, endereço, cpf)
 # 2) Curso (id, nome, quantidade de alunos, local, valor, tempo)
 # 3) Aluno x Curso (campos)

@@ -1,0 +1,109 @@
+Instruções
+Orientações Gerais
+Esta atividade pode ser realizada sem utilização do MySQL Workbench, Dbeaver, One Compiler e outros. 
+
+Não é necessário executar os comandos em computador. 
+
+O objetivo é praticar a escrita e a estrutura dos comandos SQL, com base no conteúdo estudado em aula.  
+
+Utilize apenas o material visto e o seu entendimento.  
+
+A gravação da aula do dia 10/04 também pode ser utilizada como referência. 
+
+. Criação de banco de dados.
+
+Escreva o comando SQL para criar um banco de dados chamando biblioteca.
+
+2. Seleção do banco de dados
+
+Após criar o banco biblioteca, escreva o comando SQL utilizado para selecioná-lo.
+
+3. Criação da tabela livros
+
+Crie uma tabela chamada livros, contendo os seguintes campos:
+
+· id_livro (inteiro, chave primária, autoincremental)
+
+· titulo (texto com até 150 caracteres, obrigatório)
+
+· autor (texto com até 200 caracteres)
+
+· ano_publicacao (inteiro)
+
+· disponivel (verdadeiro ou falso)
+
+4. Criação da tabela usuarios
+
+Crie uma tabela chamada usuarios, com os campos:
+
+· id_usuario (inteiro, chave primária, auto incremento)
+
+· nome (texto com até 100 caracteres, obrigatório)
+
+· Sobrenome (texto com até 100 caracteres, obrigatório)
+
+· email (texto com até 120 caracteres, único e obrigatório)
+
+· senha (texto com até 60 caracteres, obrigatório)
+
+· ativo (verdadeiro ou falso)
+
+5. Criação da tabela clientes
+
+Crie uma tabela chamada clientes, contendo:
+
+· id_cliente (inteiro, chave primária, auto incremento)
+
+· nome (texto com até 100 caracteres, obrigatório)
+
+· cpf (texto com tamanho fixo de 11 caracteres, único)
+
+· telefone (texto com até 15 caracteres)
+
+· data_nascimento (data)
+
+· ativo (verdadeiro ou falso)
+
+6. Criação da tabela produtos
+
+Crie uma tabela chamada produtos, contendo:
+
+· id_produto (inteiro, chave primária, auto incremento)
+
+· nome (texto com até 80 caracteres, obrigatório)
+
+· descricao (texto longo)
+
+· preco (número decimal com duas casas decimais)
+
+· estoque (inteiro)
+
+· data_cadastro (data e hora)
+
+7. Interpretação de comandos SQL
+
+Explique, com suas próprias palavras, o que faz o comando SQL abaixo:
+
+
+8. Identificação de erros
+
+Analise o SQL abaixo e identifique os erros presentes:
+
+
+9. Criação livre
+
+Crie uma tabela chamada agendamentos, contendo no mínimo 7 campos, respeitando os seguintes critérios:
+
+· Uma chave primária
+
+· Uma chave única
+
+· Uma chave estrangeira
+
+· Um campo autoincremental
+
+· Um campo de data
+
+· Um campo numérico
+
+· Um campo obrigatório
